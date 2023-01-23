@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"C:\Users\HugoDante\Downloads\micro-5\PreguntaCinco.mcppi" -SP"C:\mikroC PRO for PIC\Defs\" -SP"C:\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\HugoDante\Downloads\micro-5\" -IP"C:\mikroC PRO for PIC\Uses\P16\" "PreguntaCinco.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_C.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	PreguntaCinco.c
+diagnostics: 29	123	Compiled Successfully	PreguntaCinco.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 12 (3%)  Free RAM (bytes): 340 (97%)	Used RAM (bytes): 12 (3%)  Free RAM (bytes): 340 (97%)
+hint: 0	1144	Used ROM (program words): 711 (9%)  Free ROM (program words): 7481 (91%)	Used ROM (program words): 711 (9%)  Free ROM (program words): 7481 (91%)
+diagnostics: 0	125	Project Linked Successfully	PreguntaCinco.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'PreguntaCinco.mcppi' completed: 78 ms	 
+diagnostics: 0	103	Finished successfully: 17 Nov. 2022, 18:44:58	PreguntaCinco.mcppi
